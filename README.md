@@ -1,6 +1,4 @@
-
-# capstoneproject_mobileapp
-
+# notification_interface
 
 A new Flutter project.
 
